@@ -15,5 +15,5 @@ git clone https://github.com/khairulharu/bot
 
 jalankan di docker atau bisa langsung module binary yang id gunakan
 ```
-go mod bot
+go module bot
 ```
